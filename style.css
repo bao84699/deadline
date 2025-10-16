@@ -40,7 +40,6 @@ body {
     line-height: 22px;
     letter-spacing: 2px;
     width: 206.9812469482422px;
-    height: 15px;
     margin-bottom: 16px;
 }
 .frame1_section1_inf_2 {
@@ -65,6 +64,7 @@ body {
     gap: 16px;
 }
 .frame1_section1_inf_4_1 {
+    box-sizing: border-box;
     border: 2px solid #ECE0CE;
     background-color: #ECE0CE;
     width: 167.65625px;
@@ -78,6 +78,7 @@ body {
     line-height: 28px;
 }
 .frame1_section1_inf_4_2 {
+    box-sizing: border-box;
     width: 145.265625px;
     height: 48px;
     border: 2px solid #ECE0CE;
@@ -173,7 +174,7 @@ body {
     font-size: 22px;
     letter-spacing: 0%;
     color: #03363D;
-    margin: 44px auto 30px auto;
+    margin: 44px 0 30px 0;
     text-align: center;
 }
 .section3_frame2_1_3 {
